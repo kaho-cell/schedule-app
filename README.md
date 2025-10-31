@@ -10,4 +10,4 @@
 
 ## 実行方法
 ```bash
-python streamlit run st_carendar.py
+streamlit run st_calendar.py
