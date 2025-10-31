@@ -1,0 +1,6 @@
+# 不要・機密ファイル
+__pycache__/
+schedule_app.db
+.env
+*.pyc
+.DS_Store
